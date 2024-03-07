@@ -1,0 +1,7 @@
+The drive link to access the entire dataset is:  https://drive.google.com/drive/folders/1hp7vS-LOAFuVs59WpHeyu1enTk8Ysi3i?usp=sharing
+
+The link for the dataset used is : https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
+
+The size of the dataset is 647MB. There are 6862 images belonging to 11 categories of weather types to be classified
+
+As the dataset size is large we are unable to upload the entire folder but here are a few examples of data being used to train our ML model
